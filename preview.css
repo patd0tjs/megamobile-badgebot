@@ -1,0 +1,20 @@
+.container {
+  background-color: #004b84;
+  color: white;
+}
+.preview {
+  text-align: center;
+  padding: 20%;
+  padding-top: 10%;
+}
+#imgpreview {
+  border: 2px solid white;
+}
+#download {
+  border-radius: 5px;
+  border: none;
+  color: #004b84;
+  font-weight: 600;
+  margin: 5%;
+  min-width: 80%;
+}
